@@ -101,4 +101,4 @@ This project underscores the power of data analysis in understanding and mitigat
 ## About the Author
 Emily Huang - Data Science enthusiast with a passion for turning data into actionable insights. 
 
-Feel free to connect with me via my [LinkedIn Profile](www.linkedin.com/in/emily-huang-3021212as)
+Feel free to connect with me via my [LinkedIn Profile](https://www.linkedin.com/in/emily-huang-3021212a)
